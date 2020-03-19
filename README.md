@@ -1,2 +1,2 @@
 # OS_2017
-Operating System Course Homework
+Operating System, NCTU, 2017 autumn
